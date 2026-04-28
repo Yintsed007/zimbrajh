@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://pub-5a2c1ca4caee4f72beb2b5133352e064.r2.dev/index.html",
+      "permanent": true
+    }
+  ]
+}
